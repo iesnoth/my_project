@@ -1,9 +1,9 @@
 html,
 body {
     margin: 0;
-    padding: 0;
-    text-align: center;
-    background-color: rgb(55, 33, 56);
+    padding: 6px;
+    text-align: left;
+    background-color: linear-gradient(to top, rgb(212, 90, 8), rgb(253, 185, 76), rgb(67, 35, 71));
     color: rgb(173, 164, 169);
 }
 header {
@@ -12,13 +12,13 @@ header {
     padding: 25px;
 }
 header h1 {
-    margin: 0;
+    margin: 10px;
 }
 main h2 {
     color: black;
     text-decoration: underline;
 }
 .container {
-    width: 65%;
+    width: 40%;
     margin: 0 auto;
 }
