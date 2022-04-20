@@ -3,12 +3,13 @@ body {
     margin: 0;
     padding: 6px;
     text-align: left;
-    background-color: linear-gradient(to top, rgb(212, 90, 8), rgb(253, 185, 76), rgb(67, 35, 71));
+    background-color: linear-gradient(to bottom right, rgb(212, 90, 8), rgb(253, 185, 76), rgb(67, 35, 71));
     color: rgb(173, 164, 169);
 }
 header {
     background: linear-gradient(to bottom right, rgb(55, 33, 56), rgb(210, 161, 195));
     color: white;
+    text-decoration: underline;
     padding: 25px;
 }
 header h1 {
@@ -16,7 +17,7 @@ header h1 {
 }
 main h2 {
     color: black;
-    text-decoration: underline;
+    text-decoration: bold;
 }
 .container {
     width: 40%;
