@@ -8,7 +8,7 @@ body {
 }
 header {
     background: linear-gradient(to bottom right, rgb(212, 90, 8), rgb(253, 185, 76), rgb(67, 35, 71));
-    color: rgb(201, 187, 187);
+    color: rgb(67, 35, 71);
     text-decoration: underline;
     padding: 25px;
 }
