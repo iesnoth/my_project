@@ -1,0 +1,24 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(55, 33, 56);
+    color: rgb(173, 164, 169);
+}
+header {
+    background: linear-gradient(to bottom right, rgb(55, 33, 56), rgb(210, 161, 195));
+    color: white;
+    padding: 25px;
+}
+header h1 {
+    margin: 0;
+}
+main h2 {
+    color: black;
+    text-decoration: underline;
+}
+.container {
+    width: 65%;
+    margin: 0 auto;
+}
